@@ -1,575 +1,369 @@
 [
   {
     "number": 1,
-    "question": "If ‘TAILOR’ is written as ‘VDMQUY’ and ‘DRAW’ is coded as ‘FUEB’ then how is the word ‘BEAUTY’ coded?",
+    "question": "Rs.5750 is divided among A, B, and C such that if their share be reduced by Rs 10, Rs 15 and Rs 25 respectively, the reminder amounts with them shall be in the ratio 4 : 6 : 9. What was C’s share then?",
     "options": [
       {
         "number": 1,
-        "option": "DHEZZF"
+        "option": "Rs.2700"
       },
       {
         "number": 2,
-        "option": "EDHYZE"
+        "option": "Rs.2725"
       },
       {
         "number": 3,
-        "option": "DHEZAE"
+        "option": "Rs.2750"
       },
       {
         "number": 4,
-        "option": "DHEYZE"
+        "option": "Rs.2625"
+      },
+      {
+        "number": 5,
+        "option": "None of these"
       }
     ]
   },
   {
     "number": 2,
-    "question": "In a certain code, the following alphabets are coded in a certain way by assigning numbers as follows\nA D I L M N O R W\n1 2 3 4 5 6 7 8 9\nWhich word can be decoded from the following ?\n163514 97842",
+    "question": "Seats for English, Sanskrit and Hindi in a school are in the ratio 5 : 7: 8. There is a proposal to increase these seats by 40%, 50% and 75% respectively. What will be the ratio of increased seats?",
     "options": [
       {
         "number": 1,
-        "option": "ANIMAL WORLD"
+        "option": "4 : 2 : 3"
       },
       {
         "number": 2,
-        "option": "ANIMAL LESS WORLD"
+        "option": "2 : 3 : 4"
       },
       {
         "number": 3,
-        "option": "WORLD OF ANIMALS"
+        "option": "4 : 5 : 3"
       },
       {
         "number": 4,
-        "option": "ANIMALS WORLD"
+        "option": "5 : 7 : 6"
       }
     ]
   },
   {
     "number": 3,
-    "question": "In a certain language ‘oka peru’ means ‘fine cloths’, ‘meta lisa’ means ‘clear water’ and ‘dona lisa peru’ means ‘fine clear weather’, which word of that language means ‘weather’?",
+    "question": "Gold is 17 times as heavy as water and copper is 7 times as heavy as water. In what ratio should these mixed to get an alloy 13 times as heavy as water?",
     "options": [
       {
         "number": 1,
-        "option": "peru"
+        "option": "2 : 3"
       },
       {
         "number": 2,
-        "option": "oka"
+        "option": "3 : 2"
       },
       {
         "number": 3,
-        "option": "meta"
+        "option": "3 : 4"
       },
       {
         "number": 4,
-        "option": "dona"
+        "option": "4 : 3"
       }
     ]
   },
   {
     "number": 4,
-    "question": "Common Data Questions\nIf ‘TAG’ is 140, ‘JOY’ is 3750, then what is the code for the following\n1) ‘RED’?\na) 120\nb) 180\nc) 360\nd) 400\n2)‘JACK’?\na) 360\nb) 180\nc) 300\nd) 330",
+    "question": "Three containers have their volumes in the ratio 2 : 3 : 4. They are full of mixtures of milk and water. The mixtures contain milk and water in the ratio of ( 1 : 3), ( 2 : 1) and ( 5 : 2) respectively. The contents of all these three containers are poured into a fourth container. The ratio of milk and water in the fourth container is:",
     "options": [
       {
         "number": 1,
-        "option": "c,c"
+        "option": "21 : 17"
       },
       {
         "number": 2,
-        "option": "a,a"
+        "option": "25 : 17"
       },
       {
         "number": 3,
-        "option": "c,d"
+        "option": "27 : 29"
       },
       {
         "number": 4,
-        "option": "b,b"
+        "option": "None of these"
       }
     ]
   },
   {
     "number": 5,
-    "question": "In a certain code, the following alphabets are coded in a certain way by assigning numbers.\nA B C D E F G H\n1 3 5 2 6 8 4 7\nWhich number can be coded for FEDCG?",
+    "question": "A school has 4 sections of class 12, such that half the number of students of 1st section, 1/3rd of 2nd section, 1/4th of 3rd section and 1/5th of the 4th section are equal. If total number of students in class 12 is 420, find the number of students in sections 1st and 2nd.",
     "options": [
       {
         "number": 1,
-        "option": "86452"
+        "option": "180"
       },
       {
         "number": 2,
-        "option": "86254"
+        "option": "120"
       },
       {
         "number": 3,
-        "option": "86524"
+        "option": "240"
       },
       {
         "number": 4,
-        "option": "86245"
+        "option": "150"
+      },
+      {
+        "number": 5,
+        "option": "260"
       }
     ]
   },
   {
     "number": 6,
-    "question": "If the word ‘FRIDGE’ is coded as 754381 and the word ‘POLICE’ is coded as 296401, then what is the code for ‘GIRDLE’?",
+    "question": "If Rs. 680 divided among Anil, Bimal and Chandan in such a way that Anil gets 2/3 of what Bimal gets and Bimal gets 1/4 of what Chandan gets, then find the share of Bimal.",
     "options": [
       {
         "number": 1,
-        "option": "845361"
+        "option": "Rs. 110"
       },
       {
         "number": 2,
-        "option": "834561"
+        "option": "Rs. 120"
       },
       {
         "number": 3,
-        "option": "875432"
+        "option": "Rs. 160"
       },
       {
         "number": 4,
-        "option": "735286"
+        "option": "Rs. 180"
       }
     ]
   },
   {
     "number": 7,
-    "question": "In a certain code language ‘MADRAS’ is written as ‘DAMSAR’, how can ‘MUMBAI’ be written in that code language?",
+    "question": "Direction :\nThere are N numbers of chocolates in the house, in which four people are lived. If the first men woke up and divided the chocolates in to 5 equal piles and found one extra chocolate. He took one of those piles along with the extra chocolate and hid them. He then gathered the 4 remaining piles in to a big pile, woke up the second person and went to sleep. Each of the other three persons did the same one by one. i.e. divided the big piles and found one extra chocolate. Each hid one of the piles along with the extra chocolate and gathered the remaining 4 piles in to a big pile.\nIf N> 1000, what could be the last value of N?",
     "options": [
       {
         "number": 1,
-        "option": "BAIUMM"
+        "option": "1428"
       },
       {
         "number": 2,
-        "option": "MUMIAB"
+        "option": "1296"
       },
       {
         "number": 3,
-        "option": "IABMUM"
+        "option": "1246"
       },
       {
         "number": 4,
-        "option": "MBIAUM"
+        "option": "1128"
       }
     ]
   },
   {
     "number": 8,
-    "question": "Human beings breathe in Oxygen and breathe out Carbon Dioxide. If ‘Nitrogen’ is called ‘Carbon Monoxide’, ‘Carbon Monoxide’ is called ‘Oxygen', 'Oxygen’ is called ‘Carbon Dioxide’ and ‘Carbon Dioxide’ is called ‘Nitrogen’. Then what do we breathe in and what do we breathe out.",
+    "question": "The ratio of the incomes of A and B last year was 9 : 13. Ratio of their incomes of last year to this year is 9 : 10 and 13 : 15 respectively. The sum of their present incomes is Rs 50,000. What is the present income of B?",
     "options": [
       {
         "number": 1,
-        "option": "Oxygen, Carbon Dioxide"
+        "option": "Rs.32,000"
       },
       {
         "number": 2,
-        "option": "Nitrogen, Oxygen"
+        "option": "Rs.24,000"
       },
       {
         "number": 3,
-        "option": "Carbon Dioxide, Nitrogen"
+        "option": "Rs.20,000"
       },
       {
         "number": 4,
-        "option": "Nitrogen, Carbon Monoxide"
+        "option": "Rs.30,000"
+      },
+      {
+        "number": 5,
+        "option": "None of these"
       }
     ]
   },
   {
     "number": 9,
-    "question": "In a certain language 'cab' means 'Puja is mad'; 'dcb' means 'Puja is short'; 'ebh' means 'Mani is cute'; 'dhb' means 'Mani is fat', then what should be the indication for 'Puja' and 'Mani'.",
+    "question": "A sum of Rs 315 consists of 25 paise, 50 paise and 1 Re coins in the ratio 3 : 4 :6. What is the number of each kind of coin respectively?",
     "options": [
       {
         "number": 1,
-        "option": "c, h"
+        "option": "216, 144, 27"
       },
       {
         "number": 2,
-        "option": "b, i"
+        "option": "108, 144, 216"
       },
       {
         "number": 3,
-        "option": "c, d"
+        "option": "27, 72, 216"
       },
       {
         "number": 4,
-        "option": "e, h"
+        "option": "120, 35, 108"
+      },
+      {
+        "number": 5,
+        "option": "102, 150, 210"
       }
     ]
   },
   {
     "number": 10,
-    "question": "If KIA is coded as JLT and MAD is coded as EQN\nThen find the code for the following.\n1) LIE\na) NUS        b) SUN         c) NQU         d) SAM\n2) SAD\na) ERX        b) SER          c) POW         d) EWT\n3) EAR\na) TIE          b) SWF          c) SEW         d) DYE",
+    "question": "A and B are two alloys of gold and copper prepared by mixing metals in the ratio 5 : 4 and 5 : 6 respectively. If equal quantities of the alloys are melted to form a third alloy C, the ratio of gold and copper in C will be:",
     "options": [
       {
         "number": 1,
-        "option": "c, d, b"
+        "option": "50 : 49"
       },
       {
         "number": 2,
-        "option": "b, c, a"
+        "option": "48 : 25"
       },
       {
         "number": 3,
-        "option": "a, b, c"
+        "option": "47 : 28"
       },
       {
         "number": 4,
-        "option": "c, b, a"
+        "option": "None of these"
       }
     ]
   },
   {
     "number": 11,
-    "question": "If the animals which can walk are called ‘swimmers’, animals who crawl are called ‘flying’, those living in water are called ‘snakes’ and those which fly in the sky are called ‘hunters’, then what will a lizard be called?",
+    "question": "A, B and C play cricket. A's runs are to B's runs and B's runs are to C's as 4:5. They get altogether 488 runs. How many runs did A make?",
     "options": [
       {
         "number": 1,
-        "option": "Swimmers"
+        "option": "158"
       },
       {
         "number": 2,
-        "option": "Snakes"
+        "option": "128"
       },
       {
         "number": 3,
-        "option": "Flying"
+        "option": "132"
       },
       {
         "number": 4,
-        "option": "Hunters"
-      },
-      {
-        "number": 5,
-        "option": "None of these"
+        "option": "202"
       }
     ]
   },
   {
     "number": 12,
-    "question": "In a certain language, ‘me lo po’ means ‘anu weds vinay’ and ‘pe to lo’ means ‘vinay comes here’, which word in that language means ‘come’?",
+    "question": "Direction :\nThere are N numbers of chocolates in the house, in which four people are lived. If the first men woke up and divided the chocolates in to 5 equal piles and found one extra chocolate. He took one of those piles along with the extra chocolate and hid them. He then gathered the 4 remaining piles in to a big pile, woke up the second person and went to sleep. Each of the other three persons did the same one by one. i.e. divided the big piles and found one extra chocolate. Each hid one of the piles along with the extra chocolate and gathered the remaining 4 piles in to a big pile.\nWhat is the sum of the number of chocolates hidden by the last two men?",
     "options": [
       {
         "number": 1,
-        "option": "pe"
+        "option": "144"
       },
       {
         "number": 2,
-        "option": "to"
+        "option": "158"
       },
       {
         "number": 3,
-        "option": "me"
+        "option": "168"
       },
       {
         "number": 4,
-        "option": "po"
-      },
-      {
-        "number": 5,
-        "option": "pe or to"
+        "option": "184"
       }
     ]
   },
   {
     "number": 13,
-    "question": "If in a certain language CHAMPION is coded as HCMAIPNO, how can NEGATIVE be coded in that code?",
+    "question": "The electricity bill of a certain establishment is partly fixed and partly varies as the number of units of electricity consumed. When in a certain month 520 units are consumed the bill is Rs. 1600. In another month 600 units are consumed and the bill is Rs. 1840. In yet another month 450 units are consumed. The bill for that month would be:",
     "options": [
       {
         "number": 1,
-        "option": "ENAGITEV"
+        "option": "Rs. 1250"
       },
       {
         "number": 2,
-        "option": "NEAGVEIT"
+        "option": "Rs. 1340"
       },
       {
         "number": 3,
-        "option": "MGAETVIE"
+        "option": "Rs. 1390"
       },
       {
         "number": 4,
-        "option": "EGAITEVN"
-      },
-      {
-        "number": 5,
-        "option": "NEGATIEV"
+        "option": "Rs. 1520"
       }
     ]
   },
   {
     "number": 14,
-    "question": "In a certain code ‘PALM’ is written as ‘ £ @ ? $ ’ and ‘ARM’ is written as ‘ @ * $ ’. How can ‘ALARM’ be written in that code?",
+    "question": "In a survey of political preferences, 85% of those asked were in favour of at least one of the proposal I, II and III. 62% of those asked favoured proposal I, 30% favoured proposal II and 20% favoured III. If 8% of those asked favoured all three of the proposals, what percentage of those asked favoured more than one of the three proposals.",
     "options": [
       {
         "number": 1,
-        "option": "@ £ @ ? $"
+        "option": "35%"
       },
       {
         "number": 2,
-        "option": "@ $ ? £ @"
+        "option": "43%"
       },
       {
         "number": 3,
-        "option": "? @ @ £ $"
+        "option": "41%"
       },
       {
         "number": 4,
-        "option": "@ ? @ £ $"
-      },
-      {
-        "number": 5,
-        "option": "None of these"
+        "option": "39%"
       }
     ]
   },
   {
     "number": 15,
-    "question": "Complete the code and find the values of a and b in following series: 100, 101, 120, 103, 410, 321, 205, 404, 60a, 5b2.",
+    "question": "The proportion of milk and water in 3 samples is 4:3, 3:2 and 5:3. A mixture comprising of equal quantities of all 3 samples is made. The proportion of milk and water in the mixture is",
     "options": [
       {
         "number": 1,
-        "option": "2, 2"
+        "option": "201 : 322"
       },
       {
         "number": 2,
-        "option": "2, 3"
+        "option": "503 : 337"
       },
       {
         "number": 3,
-        "option": "1, 2"
+        "option": "421 : 254"
       },
       {
         "number": 4,
-        "option": "3, 3"
+        "option": "None of these"
       }
     ]
   },
   {
     "number": 16,
-    "question": "If ‘Lily’ is called ‘Lotus’, ‘Lotus’ is called ‘Rose’, ‘Rose’ is called ‘Sunflower’ and ‘Sunflower’ is called ‘Marigold’, then which will be the national flower of India?",
+    "question": "There are two numbers. When 25% of the first number is added to the second number, the resultant number is 1.5times the first number. What is the ratio of 1st number to the 2nd number?",
     "options": [
       {
         "number": 1,
-        "option": "Lily"
+        "option": "3:5"
       },
       {
         "number": 2,
-        "option": "Lotus"
+        "option": "5:4"
       },
       {
         "number": 3,
-        "option": "Rose"
+        "option": "4:5"
       },
       {
         "number": 4,
-        "option": "Marigold"
-      },
-      {
-        "number": 5,
-        "option": "Sunflower"
-      }
-    ]
-  },
-  {
-    "number": 17,
-    "question": "If HELLO is 52, DOG is 26, CAT is 24, then what is GATE?",
-    "options": [
-      {
-        "number": 1,
-        "option": "22"
-      },
-      {
-        "number": 2,
-        "option": "30"
-      },
-      {
-        "number": 3,
-        "option": "35"
-      },
-      {
-        "number": 4,
-        "option": "33"
-      }
-    ]
-  },
-  {
-    "number": 18,
-    "question": "If ‘AUTOMATIC’ is coded as ‘OIOIOI’ and ‘OPPORTUNITY’ is coded as ‘ONONON’, then the code for ‘SUCCESSFUL’ is",
-    "options": [
-      {
-        "number": 1,
-        "option": "CFCFCF"
-      },
-      {
-        "number": 2,
-        "option": "CSCSCS"
-      },
-      {
-        "number": 3,
-        "option": "CECECE"
-      },
-      {
-        "number": 4,
-        "option": "EFEFEF"
-      }
-    ]
-  },
-  {
-    "number": 19,
-    "question": "If 'Grass is green' is coded as 573, ‘Green is plant’ is coded as 347 and ‘Plant is small’ is 432, then\n1) What is the code for ‘small’?\na) 5        b) 2        c) 3        d) 4\n2) What is the code for ‘grass’?\na) 4        b) 2        c) 5        d) 3",
-    "options": [
-      {
-        "number": 1,
-        "option": "b, c"
-      },
-      {
-        "number": 2,
-        "option": "d, c"
-      },
-      {
-        "number": 3,
-        "option": "a, d"
-      },
-      {
-        "number": 4,
-        "option": "c, a"
-      }
-    ]
-  },
-  {
-    "number": 20,
-    "question": "If ‘DREAM’ is coded as 78026 and ‘CHILD’ is coded as 53417, how can ‘LEADER’ be coded?",
-    "options": [
-      {
-        "number": 1,
-        "option": "102078"
-      },
-      {
-        "number": 2,
-        "option": "102708"
-      },
-      {
-        "number": 3,
-        "option": "102087"
-      },
-      {
-        "number": 4,
-        "option": "102780"
-      }
-    ]
-  },
-  {
-    "number": 21,
-    "question": "If DAY is coded as ‘DJAJYJ’, CARB is written as ‘CFAFRFBF’ and ACE is written as ‘ACCCEC’ then what is the code for BAR",
-    "options": [
-      {
-        "number": 1,
-        "option": "BHAHRH"
-      },
-      {
-        "number": 2,
-        "option": "BDADRD"
-      },
-      {
-        "number": 3,
-        "option": "BEAERE"
-      },
-      {
-        "number": 4,
-        "option": "BGAGRG"
-      }
-    ]
-  },
-  {
-    "number": 22,
-    "question": "On another planet, the local terminology for ‘earth’, ‘water’, ‘light’, ‘air’ and ‘sky’ are ‘sky’, ‘light’, ‘air’, ‘water’ and ‘earth’, respectively. If someone is thirsty there, what would he drink?",
-    "options": [
-      {
-        "number": 1,
-        "option": "Light"
-      },
-      {
-        "number": 2,
-        "option": "Air"
-      },
-      {
-        "number": 3,
-        "option": "Sky"
-      },
-      {
-        "number": 4,
-        "option": "Water"
-      }
-    ]
-  },
-  {
-    "number": 23,
-    "question": "If in a certain language REMOTE is coded as ROTEME, which word would be coded as PNIICC?",
-    "options": [
-      {
-        "number": 1,
-        "option": "NPIICC"
-      },
-      {
-        "number": 2,
-        "option": "PICCIN"
-      },
-      {
-        "number": 3,
-        "option": "PINCIC"
-      },
-      {
-        "number": 4,
-        "option": "PICNIC"
-      },
-      {
-        "number": 5,
-        "option": "PICINC"
-      }
-    ]
-  },
-  {
-    "number": 24,
-    "question": "Tigers are found in Bengal and Camels are found in Rajasthan. If 'Lion' is called 'Tiger', 'Tiger' is called 'Giraffe', 'Giraffe' is called 'Camel' and 'Camel' is called 'Kangaroo', then which animal is found in Rajasthan and Bengal?",
-    "options": [
-      {
-        "number": 1,
-        "option": "Giraffe, Lion"
-      },
-      {
-        "number": 2,
-        "option": "Kangaroo, Giraffe"
-      },
-      {
-        "number": 3,
-        "option": "Camel, Tiger"
-      },
-      {
-        "number": 4,
-        "option": "Camel, Lion"
-      }
-    ]
-  },
-  {
-    "number": 25,
-    "question": "If FULFNHW is the code for CRICKET, EULGH will be coded as --------------.",
-    "options": [
-      {
-        "number": 1,
-        "option": "PRIDE"
-      },
-      {
-        "number": 2,
-        "option": "BRIDE"
-      },
-      {
-        "number": 3,
-        "option": "BLADE"
-      },
-      {
-        "number": 4,
-        "option": "BLIND"
+        "option": "2:3"
       },
       {
         "number": 5,
@@ -578,68 +372,286 @@
     ]
   },
   {
-    "number": 26,
-    "question": "In a certain code, ‘CERTAIN’ is coded as ‘XVIGZRM’ ‘SEQUENCE’ is coded as ‘HVJFVMXV’. How would ‘REQUIRED’ be coded?",
+    "number": 17,
+    "question": "There is a square of side a cm. A circle is inscribed inside the square. Find the ratio of the area of circle to square.",
     "options": [
       {
         "number": 1,
-        "option": "FJIVWVIR"
+        "option": "12/32"
       },
       {
         "number": 2,
-        "option": "VJIFWTRV"
+        "option": "11/14"
       },
       {
         "number": 3,
-        "option": "WVJRIFVI"
+        "option": "15/19"
       },
       {
         "number": 4,
-        "option": "IVJFRIVW"
+        "option": "13/17"
+      }
+    ]
+  },
+  {
+    "number": 18,
+    "question": "A sum of Rs 1162 is divided among A,B and C. Such that 4 times A's share  is equal to 5 times B's share and 7 times C's share . What is the share of C?",
+    "options": [
+      {
+        "number": 1,
+        "option": "Rs 280"
+      },
+      {
+        "number": 2,
+        "option": "Rs 250"
+      },
+      {
+        "number": 3,
+        "option": "Rs 360"
+      },
+      {
+        "number": 4,
+        "option": "Rs 420"
+      }
+    ]
+  },
+  {
+    "number": 19,
+    "question": "One year ago the ratio between rahul salary and rohit salary is 4:5. The ratio between their individual salary of the last year and current year is 2:3 and 3:5 respectively. If the total current salary of rahul and rohit is 4300. Then find the current salary of rahul.",
+    "options": [
+      {
+        "number": 1,
+        "option": "1200"
+      },
+      {
+        "number": 2,
+        "option": "1800"
+      },
+      {
+        "number": 3,
+        "option": "1600"
+      },
+      {
+        "number": 4,
+        "option": "2000"
+      },
+      {
+        "number": 5,
+        "option": "None of these"
+      }
+    ]
+  },
+  {
+    "number": 20,
+    "question": "Section A and section B of 7th class in a school contains total 285 students. Which of the following can be a ratio of the ratio of the number of boys and number of girls in the class?",
+    "options": [
+      {
+        "number": 1,
+        "option": "6 : 5"
+      },
+      {
+        "number": 2,
+        "option": "10 : 9"
+      },
+      {
+        "number": 3,
+        "option": "11 : 9"
+      },
+      {
+        "number": 4,
+        "option": "13 : 12"
+      },
+      {
+        "number": 5,
+        "option": "Cannot be determined"
+      }
+    ]
+  },
+  {
+    "number": 21,
+    "question": "A sum of 12600 is to be distributed between A, B and C. For every rupee A gets, B gets 80p and for every rupee B gets, C get 90 paise. Find the amount get by C.",
+    "options": [
+      {
+        "number": 1,
+        "option": "3200"
+      },
+      {
+        "number": 2,
+        "option": "3600"
+      },
+      {
+        "number": 3,
+        "option": "4200"
+      },
+      {
+        "number": 4,
+        "option": "4600"
+      },
+      {
+        "number": 5,
+        "option": "None of these"
+      }
+    ]
+  },
+  {
+    "number": 22,
+    "question": "The pressure of wind on a sail varies directly as the area of the sail and the square of the velocity of the wind. The pressure on one square meter is I unit when the velocity is 9 km/hr. Find the velocity of the wind where the pressure on a square meter is 16 units is :",
+    "options": [
+      {
+        "number": 1,
+        "option": "15 km/hr"
+      },
+      {
+        "number": 2,
+        "option": "36 km/hr"
+      },
+      {
+        "number": 3,
+        "option": "32 km/hr"
+      },
+      {
+        "number": 4,
+        "option": "None of these"
+      }
+    ]
+  },
+  {
+    "number": 23,
+    "question": "A is directly proportional to B and also directly proportional to C. When B = 6 and C = 2, A = 24. Find the value of A when B = 8 and C = 3.",
+    "options": [
+      {
+        "number": 1,
+        "option": "42"
+      },
+      {
+        "number": 2,
+        "option": "40"
+      },
+      {
+        "number": 3,
+        "option": "58"
+      },
+      {
+        "number": 4,
+        "option": "48"
+      },
+      {
+        "number": 5,
+        "option": "None of these"
+      }
+    ]
+  },
+  {
+    "number": 24,
+    "question": "If A : B = 3 : 4, C : B = 5 : 4, C : D = 10 : 9, then A : B : C : D is:",
+    "options": [
+      {
+        "number": 1,
+        "option": "6 : 8 : 10 : 9"
+      },
+      {
+        "number": 2,
+        "option": "8 : 6 : 9 : 10"
+      },
+      {
+        "number": 3,
+        "option": "8 : 6 : 10 : 9"
+      },
+      {
+        "number": 4,
+        "option": "6 : 8 : 9 : 10"
+      }
+    ]
+  },
+  {
+    "number": 25,
+    "question": "Mohan, Ranjeet and Bhupesh have some stone with each of them. Five times the number of stones with Ranjeet equals seven times the number of stones with Mohan while five times the number of stones with Mohan is equal seven times the number of stones with Bhupesh. What is the minimum number of stone that can be there with all three of them put together?",
+    "options": [
+      {
+        "number": 1,
+        "option": "109"
+      },
+      {
+        "number": 2,
+        "option": "112"
+      },
+      {
+        "number": 3,
+        "option": "98"
+      },
+      {
+        "number": 4,
+        "option": "79"
+      }
+    ]
+  },
+  {
+    "number": 26,
+    "question": "If Rs.  850 be divided into three parts, proportional to 1/3 : 2/5:3/5, then first part is :",
+    "options": [
+      {
+        "number": 1,
+        "option": "Rs. 210"
+      },
+      {
+        "number": 2,
+        "option": "Rs. 123"
+      },
+      {
+        "number": 3,
+        "option": "Rs. 195"
+      },
+      {
+        "number": 4,
+        "option": "Rs. 253"
       }
     ]
   },
   {
     "number": 27,
-    "question": "If ‘ACNE’ is coded as 1, 3, 14, 5, then ‘BOIL’ will be coded as ------------.",
+    "question": "The ratio between two numbers is 7:5. If 5 is subtracted from each of them, the new ratio becomes 3:5. Find the numbers.",
     "options": [
       {
         "number": 1,
-        "option": "5, 31, 21, 25"
+        "option": "7/2, 5/2"
       },
       {
         "number": 2,
-        "option": "2, 15, 9, 12"
+        "option": "3/2, 7/2"
       },
       {
         "number": 3,
-        "option": "5, 29 19, 25"
+        "option": "9/2, 7/2"
       },
       {
         "number": 4,
-        "option": "5, 29,19, 27"
+        "option": "11/2, 5/2"
+      },
+      {
+        "number": 5,
+        "option": "None of these"
       }
     ]
   },
   {
     "number": 28,
-    "question": "If ‘FISH’ is written as ‘EHRG’ in a certain code, then how would ‘JUNGLE’ be written in that same code?",
+    "question": "There are 2 containers of equal capacity. The ratio of milk to water in the first container is 4:5 and in the second container is 3:7. If they are mixed up then the ratio of milk to water in the mixture will be ----------.",
     "options": [
       {
         "number": 1,
-        "option": "ITMFKD"
+        "option": "17:63"
       },
       {
         "number": 2,
-        "option": "ITNFKD"
+        "option": "65:96"
       },
       {
         "number": 3,
-        "option": "KVOHMF"
+        "option": "34:75"
       },
       {
         "number": 4,
-        "option": "TIMFKD"
+        "option": "67:113"
       },
       {
         "number": 5,
@@ -649,49 +661,45 @@
   },
   {
     "number": 29,
-    "question": "If in a certain code language, ‘MIRACLE’ is coded as ‘NKUEHRL’, then how is ‘GAMBLE’ coded in that same code language?",
+    "question": "The ratio between two numbers is 5:6 and their L.C.M is 240. Find the sum of the numbers.",
     "options": [
       {
         "number": 1,
-        "option": "JDOCMF"
+        "option": "94"
       },
       {
         "number": 2,
-        "option": "CLEMNK"
+        "option": "88"
       },
       {
         "number": 3,
-        "option": "HCPFQK"
+        "option": "78"
       },
       {
         "number": 4,
-        "option": "AELGMN"
-      },
-      {
-        "number": 5,
-        "option": "None of these"
+        "option": "100"
       }
     ]
   },
   {
     "number": 30,
-    "question": "If the word ‘ANU’ be written as ‘MSN’ and ‘VINAY’ be written as ‘PLSMZ’ in a code language, how can we express the word ‘ANUVI’ in the same language?",
+    "question": "The ratio of income of A and B is 2:3. The sum of their expenditure is Rs.8000 and the amount of savings of A is equal to the amount of expenditure of B.What is the their ratio of  sum of income to their sum of savings?",
     "options": [
       {
         "number": 1,
-        "option": "MSNPL"
+        "option": "5:3"
       },
       {
         "number": 2,
-        "option": "MPNSL"
+        "option": "3:2"
       },
       {
         "number": 3,
-        "option": "MSMPL"
+        "option": "4:3"
       },
       {
         "number": 4,
-        "option": "MQMPL"
+        "option": "3:1"
       },
       {
         "number": 5,
@@ -701,493 +709,19 @@
   },
   {
     "number": 31,
-    "question": "If ‘LINGER’ is ‘123456’ and ‘FORCE’ is ‘56789’, then ‘FIERCE’ will be -------------.",
+    "question": "If y varies directly as x, and y = 24 when x = 16, find y when x = 12.",
     "options": [
       {
         "number": 1,
-        "option": "345667"
+        "option": "32"
       },
       {
         "number": 2,
-        "option": "456678"
-      },
-      {
-        "number": 3,
-        "option": "345677"
-      },
-      {
-        "number": 4,
-        "option": "556789"
-      },
-      {
-        "number": 5,
-        "option": "Cannot be determined"
-      }
-    ]
-  },
-  {
-    "number": 32,
-    "question": "In a certain code, ‘INSTITUTION’ is written as ‘NOITUTITSNI’. How would ‘PERFECTIONS’ be written in that code?",
-    "options": [
-      {
-        "number": 1,
-        "option": "SNOICTEREP"
-      },
-      {
-        "number": 2,
-        "option": "SNOITCEFERP"
-      },
-      {
-        "number": 3,
-        "option": "SNOITCEFRPE"
-      },
-      {
-        "number": 4,
-        "option": "SNOITCEFREP"
-      },
-      {
-        "number": 5,
-        "option": "SNOITCEFPER"
-      }
-    ]
-  },
-  {
-    "number": 33,
-    "question": "If in a certain code language PARROT = 123345 and SOAT = 6425, then how would ROAST be written in that same code language?",
-    "options": [
-      {
-        "number": 1,
-        "option": "32456"
-      },
-      {
-        "number": 2,
-        "option": "32564"
-      },
-      {
-        "number": 3,
-        "option": "34625"
-      },
-      {
-        "number": 4,
-        "option": "34265"
-      }
-    ]
-  },
-  {
-    "number": 34,
-    "question": "In a certain code ‘253’ means books are old; ‘546’ means man is old and ‘378’ means buy good books what stand for ‘are’ in that code?",
-    "options": [
-      {
-        "number": 1,
-        "option": "2"
-      },
-      {
-        "number": 2,
-        "option": "4"
-      },
-      {
-        "number": 3,
-        "option": "4"
-      },
-      {
-        "number": 4,
-        "option": "5"
-      },
-      {
-        "number": 5,
-        "option": "6"
-      }
-    ]
-  },
-  {
-    "number": 35,
-    "question": "In a certain code, '256' means 'you are good' ; '637' means 'we are bad' and '358' means 'good and bad'. Which of the following represents 'and' in that code?",
-    "options": [
-      {
-        "number": 1,
-        "option": "2"
-      },
-      {
-        "number": 2,
-        "option": "5"
-      },
-      {
-        "number": 3,
-        "option": "8"
-      },
-      {
-        "number": 4,
-        "option": "3"
-      }
-    ]
-  },
-  {
-    "number": 36,
-    "question": "If in a certain code, ‘DAUGHTER’ is written as ‘TERDAUGH’, how will ‘APTITUDE’ be written in that code?",
-    "options": [
-      {
-        "number": 1,
-        "option": "DEUAPTIT"
-      },
-      {
-        "number": 2,
-        "option": "UDEAPTIT"
-      },
-      {
-        "number": 3,
-        "option": "DUEAPTIT"
-      },
-      {
-        "number": 4,
-        "option": "DAUEPTIT"
-      }
-    ]
-  },
-  {
-    "number": 37,
-    "question": "If ‘CARPET’ is coded to ‘TCEAPR’, then ‘NATIONAL’ is coded with",
-    "options": [
-      {
-        "number": 1,
-        "option": "NLATNOIA"
-      },
-      {
-        "number": 2,
-        "option": "LANOITAN"
-      },
-      {
-        "number": 3,
-        "option": "LNAANTOI"
-      },
-      {
-        "number": 4,
-        "option": "LNOINTAA"
-      }
-    ]
-  },
-  {
-    "number": 38,
-    "question": "If ‘ZEBRA’ is written as ‘2652181’, then how can ‘COBRA’ be written?",
-    "options": [
-      {
-        "number": 1,
-        "option": "302181"
-      },
-      {
-        "number": 2,
-        "option": "3152181"
-      },
-      {
-        "number": 3,
-        "option": "31822151"
-      },
-      {
-        "number": 4,
-        "option": "1182153"
-      }
-    ]
-  },
-  {
-    "number": 39,
-    "question": "In a certain code.\n‘il  be pee’ means ‘ roses are blue’\nsik hee means ‘red flowers’ and\n‘ pee mit hee’ means flowers are vegetables\nQuestions:\n1) How is ‘red’ written in that code?\na) hee        b) sik        c) be        d) cannot be determined\n2) How is ‘roser’ written in that code?\na) il        b) pee        c) be        d) cannot be determined\n3) How is ‘vegetables’ and ned flowers written in this code?\na) pee sik mi thee    b) sik pee hee be    c) il sik mi thee\nd) Cannot be determined",
-    "options": [
-      {
-        "number": 1,
-        "option": "b, d, a"
-      },
-      {
-        "number": 2,
-        "option": "c, d, a"
-      },
-      {
-        "number": 3,
-        "option": "a, b, c"
-      },
-      {
-        "number": 4,
-        "option": "d, c, b"
-      }
-    ]
-  },
-  {
-    "number": 40,
-    "question": "If the word ‘TABLECLOTH’ is coded as ‘XEMRANRIXT’, how can ‘HOTEL’ be coded?",
-    "options": [
-      {
-        "number": 1,
-        "option": "RIXAT"
-      },
-      {
-        "number": 2,
-        "option": "TIXAR"
-      },
-      {
-        "number": 3,
-        "option": "TAXIR"
-      },
-      {
-        "number": 4,
-        "option": "RAXIT"
-      }
-    ]
-  },
-  {
-    "number": 41,
-    "question": "If table is called chair,chair is called bed, bed is called mirror, mirror is called cupboard & cupboard is called drawer.Where will one sleep?",
-    "options": [
-      {
-        "number": 1,
-        "option": "Bed"
-      },
-      {
-        "number": 2,
-        "option": "cupboard"
-      },
-      {
-        "number": 3,
-        "option": "mirror"
-      },
-      {
-        "number": 4,
-        "option": "chair"
-      }
-    ]
-  },
-  {
-    "number": 42,
-    "question": "If A=2, M=26 and Z=52, then BET?",
-    "options": [
-      {
-        "number": 1,
-        "option": "44"
-      },
-      {
-        "number": 2,
-        "option": "54"
-      },
-      {
-        "number": 3,
-        "option": "64"
-      },
-      {
-        "number": 4,
-        "option": "72"
-      }
-    ]
-  },
-  {
-    "number": 43,
-    "question": "If NASCENT is written as 2734526, how is SENTENCE is written with that code?",
-    "options": [
-      {
-        "number": 1,
-        "option": "35265235"
-      },
-      {
-        "number": 2,
-        "option": "35256245"
-      },
-      {
-        "number": 3,
-        "option": "35265245"
-      },
-      {
-        "number": 4,
-        "option": "35256275"
-      }
-    ]
-  },
-  {
-    "number": 44,
-    "question": "If HE=41 and SHE=49, what is equal to THEM?",
-    "options": [
-      {
-        "number": 1,
-        "option": "62"
-      },
-      {
-        "number": 2,
-        "option": "60"
-      },
-      {
-        "number": 3,
-        "option": "26"
-      },
-      {
-        "number": 4,
-        "option": "106"
-      }
-    ]
-  },
-  {
-    "number": 45,
-    "question": "If NORMAL is coded as LAMRON. Then how would you encode AVERAGE?",
-    "options": [
-      {
-        "number": 1,
-        "option": "AEGARVE"
-      },
-      {
-        "number": 2,
-        "option": "EGAREAV"
-      },
-      {
-        "number": 3,
-        "option": "EGARVEA"
-      },
-      {
-        "number": 4,
-        "option": "EGAREVA"
-      }
-    ]
-  },
-  {
-    "number": 46,
-    "question": "If ANANYA is coded as 010110, then how NIHARICA be coded?",
-    "options": [
-      {
-        "number": 1,
-        "option": "10101001"
-      },
-      {
-        "number": 2,
-        "option": "10010101"
-      },
-      {
-        "number": 3,
-        "option": "10101010"
-      },
-      {
-        "number": 4,
-        "option": "10101011"
-      }
-    ]
-  },
-  {
-    "number": 47,
-    "question": "In a certain code KITE is written as %2$#  & STUD   is written as @$57. How is DESK written in that code?",
-    "options": [
-      {
-        "number": 1,
-        "option": "8%@#"
-      },
-      {
-        "number": 2,
-        "option": "@8%#"
-      },
-      {
-        "number": 3,
-        "option": "#7%@"
-      },
-      {
-        "number": 4,
-        "option": "7#@%"
-      }
-    ]
-  },
-  {
-    "number": 48,
-    "question": "ACE is coded as 468, and BUN is coded as 52614, the YOU will be coded as -------------.",
-    "options": [
-      {
-        "number": 1,
-        "option": "291926"
-      },
-      {
-        "number": 2,
-        "option": "31826"
-      },
-      {
-        "number": 3,
-        "option": "31926"
-      },
-      {
-        "number": 4,
-        "option": "3191"
-      }
-    ]
-  },
-  {
-    "number": 49,
-    "question": "If tee see pee means drink fruit juice, see kee lee means juice is sweet and lee ree mee means. He is intelligent, which word in that language means sweet?",
-    "options": [
-      {
-        "number": 1,
-        "option": "see"
-      },
-      {
-        "number": 2,
-        "option": "kee"
-      },
-      {
-        "number": 3,
-        "option": "lee"
-      },
-      {
-        "number": 4,
-        "option": "pee"
-      }
-    ]
-  },
-  {
-    "number": 50,
-    "question": "If F= 6, MAT= 34, then BALL?",
-    "options": [
-      {
-        "number": 1,
-        "option": "24"
-      },
-      {
-        "number": 2,
-        "option": "27"
+        "option": "18"
       },
       {
         "number": 3,
         "option": "28"
-      },
-      {
-        "number": 4,
-        "option": "25"
-      }
-    ]
-  },
-  {
-    "number": 51,
-    "question": "If SYSTEM is written is in a certain code as 123456, how will STEM be written in the same code?",
-    "options": [
-      {
-        "number": 1,
-        "option": "3456"
-      },
-      {
-        "number": 2,
-        "option": "1234"
-      },
-      {
-        "number": 3,
-        "option": "2451"
-      },
-      {
-        "number": 4,
-        "option": "4561"
-      }
-    ]
-  },
-  {
-    "number": 52,
-    "question": "In a certain code TOLD is written as 5132,and EAT is written as 645,How is LATE written in that code?",
-    "options": [
-      {
-        "number": 1,
-        "option": "3652"
-      },
-      {
-        "number": 2,
-        "option": "3246"
-      },
-      {
-        "number": 3,
-        "option": "3456"
       },
       {
         "number": 4,
@@ -1196,202 +730,656 @@
     ]
   },
   {
-    "number": 53,
-    "question": "In the following question, two statements numbered I and II are given. There may be cause and effect relationship between the two statements. These two statements may be the effect of the same cause or independent causes. These statements may be independent causes without having any relationship. Read both the statements in each question and mark your answer as\n(A) If statement I is the cause and statement II is its effect;\n(B) If statement II is the cause and statement I is its effect;\n(C) If both the statements I and II are independent causes;\n(D) If both the statements I and II are effects of independent causes;\n(E) If both the statements I and II are effects of some common cause.\nStatements:\nI) India's 2012/13 edible oil imports could rise 4.2 per cent to a record high, with palm oil cornering the bulk of that imports.\nII) Higher Indian imports could provide crucial support to palm oil prices, which are flagging compared with rivals like soy oil, weighed down by a build-up in inventory in the top two producing countries - Indonesia and Malaysia.",
+    "number": 32,
+    "question": "If The ratio of A's money and B's money is 3 : 7 and ratio of B's money and C's money is  2 : 1. If A has Rs. 600 with him, C has ______.",
     "options": [
       {
         "number": 1,
-        "option": "A"
+        "option": "800"
       },
       {
         "number": 2,
-        "option": "B"
+        "option": "300"
       },
       {
         "number": 3,
-        "option": "C"
+        "option": "700"
       },
       {
         "number": 4,
-        "option": "D"
+        "option": "600"
+      }
+    ]
+  },
+  {
+    "number": 33,
+    "question": "George bought two varieties of wheat, costing Rs 25 per kg and Rs. 30 per kg each, and mixed them in the same ratio. The he sold the mixture at Rs. 35 per kg, making a profit of 20%. What was the ratio of the mixture?",
+    "options": [
+      {
+        "number": 1,
+        "option": "5 : 1"
+      },
+      {
+        "number": 2,
+        "option": "1 : 5"
+      },
+      {
+        "number": 3,
+        "option": "3 : 7"
+      },
+      {
+        "number": 4,
+        "option": "7 : 3"
+      }
+    ]
+  },
+  {
+    "number": 34,
+    "question": "Find third proportion to 16,36",
+    "options": [
+      {
+        "number": 1,
+        "option": "61"
+      },
+      {
+        "number": 2,
+        "option": "71"
+      },
+      {
+        "number": 3,
+        "option": "81"
+      },
+      {
+        "number": 4,
+        "option": "91"
+      }
+    ]
+  },
+  {
+    "number": 35,
+    "question": "A bus and a truck are available to cross a forest. The speed of the truck is twice that of the bus. The capacity of truck is 60 persons and that of bus is 40 persons. The average occupancy of the bus is twice that of the truck. The ticket of the bus and the truck cost Re. 1 and Rs. 1.50 respectively. What is the ratio of the average rupee collection of the truck to that of the bus in a day? Assume there is no wastage time between the trips and occupancy of the bus or truck is defined as the ratio of the actual number of persons boarding it and its capacity.",
+    "options": [
+      {
+        "number": 1,
+        "option": "9 : 4"
+      },
+      {
+        "number": 2,
+        "option": "4 : 9"
+      },
+      {
+        "number": 3,
+        "option": "3 : 8"
+      },
+      {
+        "number": 4,
+        "option": "4 : 7"
+      }
+    ]
+  },
+  {
+    "number": 36,
+    "question": "A yellow light flashes 3 times per minutes and a red light flashes 5 times in two minutes at regular intervals. If both lights starts flashing at the same time, how many times do they flash together in each hour?",
+    "options": [
+      {
+        "number": 1,
+        "option": "35"
+      },
+      {
+        "number": 2,
+        "option": "30"
+      },
+      {
+        "number": 3,
+        "option": "40"
+      },
+      {
+        "number": 4,
+        "option": "45"
+      }
+    ]
+  },
+  {
+    "number": 37,
+    "question": "Ratio of A and B is in the ratio 5 : 8. After 6 years, the ratio of ages of A and B will be in the ratio 17 : 26. Find the present age of B.",
+    "options": [
+      {
+        "number": 1,
+        "option": "72"
+      },
+      {
+        "number": 2,
+        "option": "65"
+      },
+      {
+        "number": 3,
+        "option": "77"
+      },
+      {
+        "number": 4,
+        "option": "60"
       },
       {
         "number": 5,
-        "option": "E"
+        "option": "None of these"
+      }
+    ]
+  },
+  {
+    "number": 38,
+    "question": "A bag contains 25p, 50p and 1Re coins in the ratio of 2 : 4 : 5 respectively. If the total money in the bag is Rs 75, find the number of 50p coins in the bag.",
+    "options": [
+      {
+        "number": 1,
+        "option": "45"
+      },
+      {
+        "number": 2,
+        "option": "50"
+      },
+      {
+        "number": 3,
+        "option": "25"
+      },
+      {
+        "number": 4,
+        "option": "40"
+      },
+      {
+        "number": 5,
+        "option": "None of these"
+      }
+    ]
+  },
+  {
+    "number": 39,
+    "question": "A bag contains one rupee coins,50 paise coins,and 25 paise coins in the ratio of 1:2:4.T he total sum is Rs 300. Find the total number of coins?",
+    "options": [
+      {
+        "number": 1,
+        "option": "450"
+      },
+      {
+        "number": 2,
+        "option": "550"
+      },
+      {
+        "number": 3,
+        "option": "290"
+      },
+      {
+        "number": 4,
+        "option": "700"
+      }
+    ]
+  },
+  {
+    "number": 40,
+    "question": "Divide Rs.2340 into three parts, such that first part be double that of second part and second part be 1/3 of the third part.Find the Third part amount?",
+    "options": [
+      {
+        "number": 1,
+        "option": "Rs.780"
+      },
+      {
+        "number": 2,
+        "option": "Rs.1170"
+      },
+      {
+        "number": 3,
+        "option": "Rs.750"
+      },
+      {
+        "number": 4,
+        "option": "Rs.390"
+      },
+      {
+        "number": 5,
+        "option": "None of these"
+      }
+    ]
+  },
+  {
+    "number": 41,
+    "question": "Two alloys contain platinum and gold in the ratio of 1:2 and 1:3 respectively. A third alloy C is formed by mixing alloys one and alloy two in the ratio of 3:4. Find the percentage of gold in the mixture?",
+    "options": [
+      {
+        "number": 1,
+        "option": "79.2/7%"
+      },
+      {
+        "number": 2,
+        "option": "71.2/7%"
+      },
+      {
+        "number": 3,
+        "option": "73.2/7%"
+      },
+      {
+        "number": 4,
+        "option": "71.3/7%"
+      },
+      {
+        "number": 5,
+        "option": "None of these"
+      }
+    ]
+  },
+  {
+    "number": 42,
+    "question": "If Rs. 783 is divided into two parts in the ratio 1 : 2 then find the second part.",
+    "options": [
+      {
+        "number": 1,
+        "option": "Rs. 261"
+      },
+      {
+        "number": 2,
+        "option": "Rs. 460"
+      },
+      {
+        "number": 3,
+        "option": "Rs. 522"
+      },
+      {
+        "number": 4,
+        "option": "RS. 526"
+      }
+    ]
+  },
+  {
+    "number": 43,
+    "question": "When 40% percent of a number is added to another number the second number increases to its 20%. What is the ratio between the first and second number?",
+    "options": [
+      {
+        "number": 1,
+        "option": "2:1"
+      },
+      {
+        "number": 2,
+        "option": "1:2"
+      },
+      {
+        "number": 3,
+        "option": "2:3"
+      },
+      {
+        "number": 4,
+        "option": "3:4"
+      },
+      {
+        "number": 5,
+        "option": "None of these"
+      }
+    ]
+  },
+  {
+    "number": 44,
+    "question": "A company reduces his employee in the ratio 14 : 12 and increases their wages in the ratio 16:18, Determine whether the bill of wages increases or not and in what ratio.",
+    "options": [
+      {
+        "number": 1,
+        "option": "Decreases, 28: 27"
+      },
+      {
+        "number": 2,
+        "option": "Increases, 27:28"
+      },
+      {
+        "number": 3,
+        "option": "Decreases, 29:28"
+      },
+      {
+        "number": 4,
+        "option": "Increases, 28:29"
+      },
+      {
+        "number": 5,
+        "option": "None of these"
+      }
+    ]
+  },
+  {
+    "number": 45,
+    "question": "Divide 1458 in the ratio of 2:7",
+    "options": [
+      {
+        "number": 1,
+        "option": "324, 1134"
+      },
+      {
+        "number": 2,
+        "option": "276, 1044"
+      },
+      {
+        "number": 3,
+        "option": "301, 1083"
+      },
+      {
+        "number": 4,
+        "option": "300, 1046"
+      }
+    ]
+  },
+  {
+    "number": 46,
+    "question": "If Rs. 656 is divided into two parts in the ratio 3 : 5 then find the first part.",
+    "options": [
+      {
+        "number": 1,
+        "option": "Rs. 246"
+      },
+      {
+        "number": 2,
+        "option": "Rs. 236"
+      },
+      {
+        "number": 3,
+        "option": "Rs. 326"
+      },
+      {
+        "number": 4,
+        "option": "Rs. 410"
+      }
+    ]
+  },
+  {
+    "number": 47,
+    "question": "Two alloys contain copper and tin in the ratio of 5:6 and 7:11 which one of them contain more copper?",
+    "options": [
+      {
+        "number": 1,
+        "option": "Alloy 1"
+      },
+      {
+        "number": 2,
+        "option": "Alloy 2"
+      }
+    ]
+  },
+  {
+    "number": 48,
+    "question": "If a:b = 2:3, b:c = 6:5 and c:d = 3:5 then find the value of a:b:c:d?",
+    "options": [
+      {
+        "number": 1,
+        "option": "18:25:12:18"
+      },
+      {
+        "number": 2,
+        "option": "12:18:15:25"
+      },
+      {
+        "number": 3,
+        "option": "25:18:15:12"
+      },
+      {
+        "number": 4,
+        "option": "12:25:18:25"
+      }
+    ]
+  },
+  {
+    "number": 49,
+    "question": "The population of a city is 1152 crores. The ratio of male, female and children are 2:3:4. Find the number of males, females and children in the city?",
+    "options": [
+      {
+        "number": 1,
+        "option": "256, 512, 384"
+      },
+      {
+        "number": 2,
+        "option": "256, 384, 512"
+      },
+      {
+        "number": 3,
+        "option": "512, 256, 384"
+      },
+      {
+        "number": 4,
+        "option": "384, 256, 512"
+      }
+    ]
+  },
+  {
+    "number": 50,
+    "question": "If 15 books cost Rs.35, what do 21 books cost?",
+    "options": [
+      {
+        "number": 1,
+        "option": "36"
+      },
+      {
+        "number": 2,
+        "option": "25"
+      },
+      {
+        "number": 3,
+        "option": "49"
+      },
+      {
+        "number": 4,
+        "option": "64"
+      }
+    ]
+  },
+  {
+    "number": 51,
+    "question": "The ratio between two numbers is 3:4. If each no is increase by 2, the ratio becomes 7:9. Find the numbers",
+    "options": [
+      {
+        "number": 1,
+        "option": "10, 16"
+      },
+      {
+        "number": 2,
+        "option": "12, 16"
+      },
+      {
+        "number": 3,
+        "option": "15, 16"
+      },
+      {
+        "number": 4,
+        "option": "18, 16"
+      }
+    ]
+  },
+  {
+    "number": 52,
+    "question": "If a : b = 4 : 3 and b : c = 9 : 8, then a : c is :",
+    "options": [
+      {
+        "number": 1,
+        "option": "4 : 3"
+      },
+      {
+        "number": 2,
+        "option": "3 : 2"
+      },
+      {
+        "number": 3,
+        "option": "5 : 3"
+      },
+      {
+        "number": 4,
+        "option": "7 : 5"
+      }
+    ]
+  },
+  {
+    "number": 53,
+    "question": "The ratio of boys and girls in the school is 7:9 when 22 new boys  are joined in this school  then the ratio become 9:10.How many girls in this school?",
+    "options": [
+      {
+        "number": 1,
+        "option": "180"
+      },
+      {
+        "number": 2,
+        "option": "200"
+      },
+      {
+        "number": 3,
+        "option": "160"
+      },
+      {
+        "number": 4,
+        "option": "220"
       }
     ]
   },
   {
     "number": 54,
-    "question": "Below there are two statements I and II. These statements may be either independent causes or may be effects of independent causes or a common cause. One of these statements may be the effect of the other statements. Read both the statements and decide which of the following answer choice correctly depicts the relationship between these two statements. Mark answer as\n(A) If statement I is the cause and statement II is its effect.\n(B) If statement II is the cause and statement I is its effect.\n(C) If both the statements I and II are independent causes.\n(D) If both the statements I and II are effects of independent causes.\n(E) If both the statements I and II are effects of some common cause.\nStatements:\nI. Many people visited the religious place during the week-end.\nII. Few people visited the religious place during the week days.",
+    "question": "If a : b = 2 : 5 and b : c = 4 :5, find a : b : c.",
     "options": [
       {
         "number": 1,
-        "option": "A"
+        "option": "20 : 25 : 8"
       },
       {
         "number": 2,
-        "option": "B"
+        "option": "20 : 8 : 25"
       },
       {
         "number": 3,
-        "option": "C"
+        "option": "8 : 20 : 25"
       },
       {
         "number": 4,
-        "option": "D"
-      },
-      {
-        "number": 5,
-        "option": "E"
+        "option": "None of these"
       }
     ]
   },
   {
     "number": 55,
-    "question": "In the following question, two statements numbered I and II are given. There may be cause and effect relationship between the two statements. These two statements may be the effect of the same cause or independent causes. These statements may be independent causes without having any relationship. Read both the statements in each question and mark your answer as\n(A) If statement I is the cause and statement II is its effect;\n(B) If statement II is the cause and statement I is its effect;\n(C) If both the statements I and II are independent causes;\n(D) If both the statements I and II are effects of independent causes;\n(E) If both the statements I and II are effects of some common cause.\nStatements:\nI) Prime Minister said a Rs.17 per litre hike in diesel price was needed to cover the losses and that the government only partially passed on the burden to the common people.\nII) The prime minister pointed out that much of diesel is used by big cars and sports utility vehicles (SUVs) owned by the rich and by factories and businesses.",
+    "question": "If Rs. 936 is divided into two parts in the ratio 5 : 4 then find the first part.",
     "options": [
       {
         "number": 1,
-        "option": "A"
+        "option": "Rs. 416"
       },
       {
         "number": 2,
-        "option": "B"
+        "option": "Rs. 525"
       },
       {
         "number": 3,
-        "option": "C"
+        "option": "Rs. 520"
       },
       {
         "number": 4,
-        "option": "D"
-      },
-      {
-        "number": 5,
-        "option": "E"
+        "option": "Rs. 420"
       }
     ]
   },
   {
     "number": 56,
-    "question": "Below there are two statements I and II. These statements may be either independent causes or may be effects of independent causes or a common cause. One of these statements may be the effect of the other statements. Read both the statements and decide which of the following answer choice correctly depicts the relationship between these two statements. Mark answer as\n(A) If statement I is the cause and statement II is its effect.\n(B) If statement II is the cause and statement I is its effect.\n(C) If both the statements I and II are independent causes.\n(D) If both the statements I and II are effects of independent causes.\n(E) If both the statements I and II are effects of some common cause.\nStatements:\nI. Police had resorted to lathi-charge to disperse the unruly mob from the civic headquarters.\nII. The civic administration has recently hiked the property tax of the residential buildings by about 30 percent.",
+    "question": "If a = 3b = 5c, then a : b : c is :",
     "options": [
       {
         "number": 1,
-        "option": "A"
+        "option": "3 : 5 : 15"
       },
       {
         "number": 2,
-        "option": "B"
+        "option": "15 : 5 : 3"
       },
       {
         "number": 3,
-        "option": "C"
+        "option": "5 : 15 : 3"
       },
       {
         "number": 4,
-        "option": "D"
-      },
-      {
-        "number": 5,
-        "option": "E"
+        "option": "None of these"
       }
     ]
   },
   {
     "number": 57,
-    "question": "Below there are two statements I and II. These statements may be either independent causes or may be effects of independent causes or a common cause. One of these statements may be the effect of the other statements. Read both the statements and decide which of the following answer choice correctly depicts the relationship between these two statements. Mark answer as\n(A) If statement I is the cause and statement II is its effect.\n(B) If statement II is the cause and statement I is its effect.\n(C) If both the statements I and II are independent causes.\n(D) If both the statements I and II are effects of independent causes.\n(E) If both the statements I and II are effects of some common cause.\nStatements:\nI. Large number of people living in the low lying areas has been evacuated during the last few days to safer places.\nII. The Government has rushed in relief supplies to the people living in the affected areas.",
+    "question": "Two numbers are in the ratio of 5:8 .If 4 is subtracted from each then the ratio become 1:2. The small number is ------.",
     "options": [
       {
         "number": 1,
-        "option": "A"
+        "option": "16"
       },
       {
         "number": 2,
-        "option": "B"
+        "option": "4"
       },
       {
         "number": 3,
-        "option": "C"
+        "option": "10"
       },
       {
         "number": 4,
-        "option": "D"
-      },
-      {
-        "number": 5,
-        "option": "E"
+        "option": "2"
       }
     ]
   },
   {
     "number": 58,
-    "question": "Below there are two statements I and II. These statements may be either independent causes or may be effects of independent causes or a common cause. One of these statements may be the effect of the other statements. Read both the statements and decide which of the following answer choice correctly depicts the relationship between these two statements. Mark answer as\n(A) If statement I is the cause and statement II is its effect.\n(B) If statement II is the cause and statement I is its effect.\n(C) If both the statements I and II are independent causes.\n(D) If both the statements I and II are effects of independent causes.\n(E) If both the statements I and II are effects of some common cause.\nStatements:\nI. The Reserve Bank of India has recently put restrictions on few small banks in the country.\nII. The small banks in the private and co-operative sector in India are not in a position to withstand the competitions of the bigger banks in the public sector.",
+    "question": "465 coins consist of 1 rupee, 50 paise and 25 paise coins. Their values are in the ratio 5:3:1. Find the number of each coin?",
     "options": [
       {
         "number": 1,
-        "option": "A"
+        "option": "155, 186, 124"
       },
       {
         "number": 2,
-        "option": "B"
+        "option": "124, 186, 155"
       },
       {
         "number": 3,
-        "option": "C"
+        "option": "186, 155, 124"
       },
       {
         "number": 4,
-        "option": "D"
-      },
-      {
-        "number": 5,
-        "option": "E"
+        "option": "155, 124, 186"
       }
     ]
   },
   {
     "number": 59,
-    "question": "Read the following information and answer the questions that follow:\n1) A is older than B.\n2) E & F are of equal age.\n3) C is the youngest.\n4) D is younger than F.\n5) D is older than A.\nQ-1) Which two of the above statements indicate that D is older than B?\nA) 1 & 4         B) 4 & 5      C) 1 & 5      D) None of these.\nQ-2) Which statement indicate that F is older than C?\nA) 2 & 3          B) 3 only         C) 3 & 4       D) None of these.\nQ-3) Which statements is/are not required to prove that B is younger than E?\nA) 3 only      B) 3 & 4 only       C) 4 & 5        D) 3 & 5\nQ-4) Which of the statements proves that A is younger than E?\nA) 1, 2 & 4      B) 2, 4, & 5      C) 1, 4, & 5       D) None of these.",
+    "question": "If a/2 = b/3 = c/4, then a : b : c is :",
     "options": [
       {
         "number": 1,
-        "option": "C, A, B, C"
+        "option": "2 : 3 : 4"
       },
       {
         "number": 2,
-        "option": "C, B, A, B"
+        "option": "3 : 2 : 4"
       },
       {
         "number": 3,
-        "option": "C, D, B, C"
+        "option": "2 : 5 : 7"
       },
       {
         "number": 4,
-        "option": "C, A, D, B"
+        "option": "2 : 3 : 5"
       }
     ]
   },
   {
     "number": 60,
-    "question": "Read the following information and answer the questions that follow:\n1) There is a group of six persons living in a four storeyed building.The persons are K, L, M, N, O & P. Each storey of the building has two flats: thus there are eight flats in all, two of them being empty.\n2) The tallest of the group lives on the top floor while the shortest lives on the ground floor.\n3) M is taller than L,who in turn is taller than P.\n4) O is shorter than N.\n5) One of the flat on first floor is vacant and one of the flat on second floor is vacant.\n6) K is neither the tallest nor the shortest.\n7) There are only two people taller than M, K is not one of them.\n8) L shares the floor with the tallest among the group,while M shares it with the shortest.\nQ-1) Who among the following is the tallest among the group?\nA) N         B) M         C) K        D) Cannot be determined.\nQ-2) Who does M share the floor with?\nA) O        B) P        C) K        D) Cannot be determined.\nQ-3) On which does K live?\nA) Ground floor\nB) First floor\nC) Top floor\nD) Cannot be determined.\nQ-4) O & K live:\nA) On the same floor\nB) On two continuous floors.\nC) With one floor between their floors.\nD) Cannot be determined.\nQ-5) Starting from the tallest of the group, what is the rank of K in order of height?\nA) Fourth\nB) Fifth\nC) Sixth\nD) Cannot be determined.",
+    "question": "The sum of present age of 2 persons is 100yrs.Before 5 years the ratio of their ages is 5:13. Find the age of younger person?",
     "options": [
       {
         "number": 1,
-        "option": "A, B, D, B, D"
+        "option": "15"
       },
       {
         "number": 2,
-        "option": "A, B, C, D, D"
+        "option": "20"
       },
       {
         "number": 3,
-        "option": "A, D, C, B, D"
+        "option": "25"
       },
       {
         "number": 4,
-        "option": "A, C, B, C, A"
+        "option": "30"
       }
     ]
   }

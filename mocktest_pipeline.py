@@ -9,7 +9,8 @@ Usage:
   python mocktest_pipeline.py --skip-export    # parse existing HTML only
   python mocktest_pipeline.py --skip-parse     # export HTML only
 
-Requires: Chrome on :9222 (or --launch-chrome), pip install playwright beautifulsoup4
+Requires: pip install playwright beautifulsoup4. Chrome must expose CDP on :9222 — start
+Chrome with --remote-debugging-port=9222 (see README), or use --launch-chrome to spawn one.
 """
 
 from __future__ import annotations
