@@ -2,6 +2,8 @@
 
 **Only use this if the website and your school or rules say it is allowed.**
 
+**You must do the mock test only in the Chrome window that opens from the special Win+R step below — the one this helper can talk to. Do not use another Chrome you opened from the taskbar, Start menu, or a desktop shortcut. If the test is in the wrong window, the commands will do nothing useful or will act on the wrong tab.**
+
 ---
 
 ## What you are doing (in plain words)
@@ -68,7 +70,7 @@ pip install playwright beautifulsoup4
 "C:\Program Files\Google\Chrome\Application\chrome.exe" --remote-debugging-port=9222 --user-data-dir="%LOCALAPPDATA%\Google\Chrome\User Data"
 ```
 
-3. Chrome opens like usual. Log in, open the mock test, then run **A** and later **B** above.
+3. Chrome opens like usual. **In this same window only:** log in and open the mock test. Then run **A** and later **B** above. **Do not switch to some other Chrome — stay in this one.**
 
 If Chrome says the profile is busy, something is still running — close every Chrome completely and try again.
 
