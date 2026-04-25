@@ -1,0 +1,1398 @@
+[
+  {
+    "number": 1,
+    "question": "If ‘TAILOR’ is written as ‘VDMQUY’ and ‘DRAW’ is coded as ‘FUEB’ then how is the word ‘BEAUTY’ coded?",
+    "options": [
+      {
+        "number": 1,
+        "option": "DHEZZF"
+      },
+      {
+        "number": 2,
+        "option": "EDHYZE"
+      },
+      {
+        "number": 3,
+        "option": "DHEZAE"
+      },
+      {
+        "number": 4,
+        "option": "DHEYZE"
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "question": "In a certain code, the following alphabets are coded in a certain way by assigning numbers as follows\nA D I L M N O R W\n1 2 3 4 5 6 7 8 9\nWhich word can be decoded from the following ?\n163514 97842",
+    "options": [
+      {
+        "number": 1,
+        "option": "ANIMAL WORLD"
+      },
+      {
+        "number": 2,
+        "option": "ANIMAL LESS WORLD"
+      },
+      {
+        "number": 3,
+        "option": "WORLD OF ANIMALS"
+      },
+      {
+        "number": 4,
+        "option": "ANIMALS WORLD"
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "question": "In a certain language ‘oka peru’ means ‘fine cloths’, ‘meta lisa’ means ‘clear water’ and ‘dona lisa peru’ means ‘fine clear weather’, which word of that language means ‘weather’?",
+    "options": [
+      {
+        "number": 1,
+        "option": "peru"
+      },
+      {
+        "number": 2,
+        "option": "oka"
+      },
+      {
+        "number": 3,
+        "option": "meta"
+      },
+      {
+        "number": 4,
+        "option": "dona"
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "question": "Common Data Questions\nIf ‘TAG’ is 140, ‘JOY’ is 3750, then what is the code for the following\n1) ‘RED’?\na) 120\nb) 180\nc) 360\nd) 400\n2)‘JACK’?\na) 360\nb) 180\nc) 300\nd) 330",
+    "options": [
+      {
+        "number": 1,
+        "option": "c,c"
+      },
+      {
+        "number": 2,
+        "option": "a,a"
+      },
+      {
+        "number": 3,
+        "option": "c,d"
+      },
+      {
+        "number": 4,
+        "option": "b,b"
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "question": "In a certain code, the following alphabets are coded in a certain way by assigning numbers.\nA B C D E F G H\n1 3 5 2 6 8 4 7\nWhich number can be coded for FEDCG?",
+    "options": [
+      {
+        "number": 1,
+        "option": "86452"
+      },
+      {
+        "number": 2,
+        "option": "86254"
+      },
+      {
+        "number": 3,
+        "option": "86524"
+      },
+      {
+        "number": 4,
+        "option": "86245"
+      }
+    ]
+  },
+  {
+    "number": 6,
+    "question": "If the word ‘FRIDGE’ is coded as 754381 and the word ‘POLICE’ is coded as 296401, then what is the code for ‘GIRDLE’?",
+    "options": [
+      {
+        "number": 1,
+        "option": "845361"
+      },
+      {
+        "number": 2,
+        "option": "834561"
+      },
+      {
+        "number": 3,
+        "option": "875432"
+      },
+      {
+        "number": 4,
+        "option": "735286"
+      }
+    ]
+  },
+  {
+    "number": 7,
+    "question": "In a certain code language ‘MADRAS’ is written as ‘DAMSAR’, how can ‘MUMBAI’ be written in that code language?",
+    "options": [
+      {
+        "number": 1,
+        "option": "BAIUMM"
+      },
+      {
+        "number": 2,
+        "option": "MUMIAB"
+      },
+      {
+        "number": 3,
+        "option": "IABMUM"
+      },
+      {
+        "number": 4,
+        "option": "MBIAUM"
+      }
+    ]
+  },
+  {
+    "number": 8,
+    "question": "Human beings breathe in Oxygen and breathe out Carbon Dioxide. If ‘Nitrogen’ is called ‘Carbon Monoxide’, ‘Carbon Monoxide’ is called ‘Oxygen', 'Oxygen’ is called ‘Carbon Dioxide’ and ‘Carbon Dioxide’ is called ‘Nitrogen’. Then what do we breathe in and what do we breathe out.",
+    "options": [
+      {
+        "number": 1,
+        "option": "Oxygen, Carbon Dioxide"
+      },
+      {
+        "number": 2,
+        "option": "Nitrogen, Oxygen"
+      },
+      {
+        "number": 3,
+        "option": "Carbon Dioxide, Nitrogen"
+      },
+      {
+        "number": 4,
+        "option": "Nitrogen, Carbon Monoxide"
+      }
+    ]
+  },
+  {
+    "number": 9,
+    "question": "In a certain language 'cab' means 'Puja is mad'; 'dcb' means 'Puja is short'; 'ebh' means 'Mani is cute'; 'dhb' means 'Mani is fat', then what should be the indication for 'Puja' and 'Mani'.",
+    "options": [
+      {
+        "number": 1,
+        "option": "c, h"
+      },
+      {
+        "number": 2,
+        "option": "b, i"
+      },
+      {
+        "number": 3,
+        "option": "c, d"
+      },
+      {
+        "number": 4,
+        "option": "e, h"
+      }
+    ]
+  },
+  {
+    "number": 10,
+    "question": "If KIA is coded as JLT and MAD is coded as EQN\nThen find the code for the following.\n1) LIE\na) NUS        b) SUN         c) NQU         d) SAM\n2) SAD\na) ERX        b) SER          c) POW         d) EWT\n3) EAR\na) TIE          b) SWF          c) SEW         d) DYE",
+    "options": [
+      {
+        "number": 1,
+        "option": "c, d, b"
+      },
+      {
+        "number": 2,
+        "option": "b, c, a"
+      },
+      {
+        "number": 3,
+        "option": "a, b, c"
+      },
+      {
+        "number": 4,
+        "option": "c, b, a"
+      }
+    ]
+  },
+  {
+    "number": 11,
+    "question": "If the animals which can walk are called ‘swimmers’, animals who crawl are called ‘flying’, those living in water are called ‘snakes’ and those which fly in the sky are called ‘hunters’, then what will a lizard be called?",
+    "options": [
+      {
+        "number": 1,
+        "option": "Swimmers"
+      },
+      {
+        "number": 2,
+        "option": "Snakes"
+      },
+      {
+        "number": 3,
+        "option": "Flying"
+      },
+      {
+        "number": 4,
+        "option": "Hunters"
+      },
+      {
+        "number": 5,
+        "option": "None of these"
+      }
+    ]
+  },
+  {
+    "number": 12,
+    "question": "In a certain language, ‘me lo po’ means ‘anu weds vinay’ and ‘pe to lo’ means ‘vinay comes here’, which word in that language means ‘come’?",
+    "options": [
+      {
+        "number": 1,
+        "option": "pe"
+      },
+      {
+        "number": 2,
+        "option": "to"
+      },
+      {
+        "number": 3,
+        "option": "me"
+      },
+      {
+        "number": 4,
+        "option": "po"
+      },
+      {
+        "number": 5,
+        "option": "pe or to"
+      }
+    ]
+  },
+  {
+    "number": 13,
+    "question": "If in a certain language CHAMPION is coded as HCMAIPNO, how can NEGATIVE be coded in that code?",
+    "options": [
+      {
+        "number": 1,
+        "option": "ENAGITEV"
+      },
+      {
+        "number": 2,
+        "option": "NEAGVEIT"
+      },
+      {
+        "number": 3,
+        "option": "MGAETVIE"
+      },
+      {
+        "number": 4,
+        "option": "EGAITEVN"
+      },
+      {
+        "number": 5,
+        "option": "NEGATIEV"
+      }
+    ]
+  },
+  {
+    "number": 14,
+    "question": "In a certain code ‘PALM’ is written as ‘ £ @ ? $ ’ and ‘ARM’ is written as ‘ @ * $ ’. How can ‘ALARM’ be written in that code?",
+    "options": [
+      {
+        "number": 1,
+        "option": "@ £ @ ? $"
+      },
+      {
+        "number": 2,
+        "option": "@ $ ? £ @"
+      },
+      {
+        "number": 3,
+        "option": "? @ @ £ $"
+      },
+      {
+        "number": 4,
+        "option": "@ ? @ £ $"
+      },
+      {
+        "number": 5,
+        "option": "None of these"
+      }
+    ]
+  },
+  {
+    "number": 15,
+    "question": "Complete the code and find the values of a and b in following series: 100, 101, 120, 103, 410, 321, 205, 404, 60a, 5b2.",
+    "options": [
+      {
+        "number": 1,
+        "option": "2, 2"
+      },
+      {
+        "number": 2,
+        "option": "2, 3"
+      },
+      {
+        "number": 3,
+        "option": "1, 2"
+      },
+      {
+        "number": 4,
+        "option": "3, 3"
+      }
+    ]
+  },
+  {
+    "number": 16,
+    "question": "If ‘Lily’ is called ‘Lotus’, ‘Lotus’ is called ‘Rose’, ‘Rose’ is called ‘Sunflower’ and ‘Sunflower’ is called ‘Marigold’, then which will be the national flower of India?",
+    "options": [
+      {
+        "number": 1,
+        "option": "Lily"
+      },
+      {
+        "number": 2,
+        "option": "Lotus"
+      },
+      {
+        "number": 3,
+        "option": "Rose"
+      },
+      {
+        "number": 4,
+        "option": "Marigold"
+      },
+      {
+        "number": 5,
+        "option": "Sunflower"
+      }
+    ]
+  },
+  {
+    "number": 17,
+    "question": "If HELLO is 52, DOG is 26, CAT is 24, then what is GATE?",
+    "options": [
+      {
+        "number": 1,
+        "option": "22"
+      },
+      {
+        "number": 2,
+        "option": "30"
+      },
+      {
+        "number": 3,
+        "option": "35"
+      },
+      {
+        "number": 4,
+        "option": "33"
+      }
+    ]
+  },
+  {
+    "number": 18,
+    "question": "If ‘AUTOMATIC’ is coded as ‘OIOIOI’ and ‘OPPORTUNITY’ is coded as ‘ONONON’, then the code for ‘SUCCESSFUL’ is",
+    "options": [
+      {
+        "number": 1,
+        "option": "CFCFCF"
+      },
+      {
+        "number": 2,
+        "option": "CSCSCS"
+      },
+      {
+        "number": 3,
+        "option": "CECECE"
+      },
+      {
+        "number": 4,
+        "option": "EFEFEF"
+      }
+    ]
+  },
+  {
+    "number": 19,
+    "question": "If 'Grass is green' is coded as 573, ‘Green is plant’ is coded as 347 and ‘Plant is small’ is 432, then\n1) What is the code for ‘small’?\na) 5        b) 2        c) 3        d) 4\n2) What is the code for ‘grass’?\na) 4        b) 2        c) 5        d) 3",
+    "options": [
+      {
+        "number": 1,
+        "option": "b, c"
+      },
+      {
+        "number": 2,
+        "option": "d, c"
+      },
+      {
+        "number": 3,
+        "option": "a, d"
+      },
+      {
+        "number": 4,
+        "option": "c, a"
+      }
+    ]
+  },
+  {
+    "number": 20,
+    "question": "If ‘DREAM’ is coded as 78026 and ‘CHILD’ is coded as 53417, how can ‘LEADER’ be coded?",
+    "options": [
+      {
+        "number": 1,
+        "option": "102078"
+      },
+      {
+        "number": 2,
+        "option": "102708"
+      },
+      {
+        "number": 3,
+        "option": "102087"
+      },
+      {
+        "number": 4,
+        "option": "102780"
+      }
+    ]
+  },
+  {
+    "number": 21,
+    "question": "If DAY is coded as ‘DJAJYJ’, CARB is written as ‘CFAFRFBF’ and ACE is written as ‘ACCCEC’ then what is the code for BAR",
+    "options": [
+      {
+        "number": 1,
+        "option": "BHAHRH"
+      },
+      {
+        "number": 2,
+        "option": "BDADRD"
+      },
+      {
+        "number": 3,
+        "option": "BEAERE"
+      },
+      {
+        "number": 4,
+        "option": "BGAGRG"
+      }
+    ]
+  },
+  {
+    "number": 22,
+    "question": "On another planet, the local terminology for ‘earth’, ‘water’, ‘light’, ‘air’ and ‘sky’ are ‘sky’, ‘light’, ‘air’, ‘water’ and ‘earth’, respectively. If someone is thirsty there, what would he drink?",
+    "options": [
+      {
+        "number": 1,
+        "option": "Light"
+      },
+      {
+        "number": 2,
+        "option": "Air"
+      },
+      {
+        "number": 3,
+        "option": "Sky"
+      },
+      {
+        "number": 4,
+        "option": "Water"
+      }
+    ]
+  },
+  {
+    "number": 23,
+    "question": "If in a certain language REMOTE is coded as ROTEME, which word would be coded as PNIICC?",
+    "options": [
+      {
+        "number": 1,
+        "option": "NPIICC"
+      },
+      {
+        "number": 2,
+        "option": "PICCIN"
+      },
+      {
+        "number": 3,
+        "option": "PINCIC"
+      },
+      {
+        "number": 4,
+        "option": "PICNIC"
+      },
+      {
+        "number": 5,
+        "option": "PICINC"
+      }
+    ]
+  },
+  {
+    "number": 24,
+    "question": "Tigers are found in Bengal and Camels are found in Rajasthan. If 'Lion' is called 'Tiger', 'Tiger' is called 'Giraffe', 'Giraffe' is called 'Camel' and 'Camel' is called 'Kangaroo', then which animal is found in Rajasthan and Bengal?",
+    "options": [
+      {
+        "number": 1,
+        "option": "Giraffe, Lion"
+      },
+      {
+        "number": 2,
+        "option": "Kangaroo, Giraffe"
+      },
+      {
+        "number": 3,
+        "option": "Camel, Tiger"
+      },
+      {
+        "number": 4,
+        "option": "Camel, Lion"
+      }
+    ]
+  },
+  {
+    "number": 25,
+    "question": "If FULFNHW is the code for CRICKET, EULGH will be coded as --------------.",
+    "options": [
+      {
+        "number": 1,
+        "option": "PRIDE"
+      },
+      {
+        "number": 2,
+        "option": "BRIDE"
+      },
+      {
+        "number": 3,
+        "option": "BLADE"
+      },
+      {
+        "number": 4,
+        "option": "BLIND"
+      },
+      {
+        "number": 5,
+        "option": "None of these"
+      }
+    ]
+  },
+  {
+    "number": 26,
+    "question": "In a certain code, ‘CERTAIN’ is coded as ‘XVIGZRM’ ‘SEQUENCE’ is coded as ‘HVJFVMXV’. How would ‘REQUIRED’ be coded?",
+    "options": [
+      {
+        "number": 1,
+        "option": "FJIVWVIR"
+      },
+      {
+        "number": 2,
+        "option": "VJIFWTRV"
+      },
+      {
+        "number": 3,
+        "option": "WVJRIFVI"
+      },
+      {
+        "number": 4,
+        "option": "IVJFRIVW"
+      }
+    ]
+  },
+  {
+    "number": 27,
+    "question": "If ‘ACNE’ is coded as 1, 3, 14, 5, then ‘BOIL’ will be coded as ------------.",
+    "options": [
+      {
+        "number": 1,
+        "option": "5, 31, 21, 25"
+      },
+      {
+        "number": 2,
+        "option": "2, 15, 9, 12"
+      },
+      {
+        "number": 3,
+        "option": "5, 29 19, 25"
+      },
+      {
+        "number": 4,
+        "option": "5, 29,19, 27"
+      }
+    ]
+  },
+  {
+    "number": 28,
+    "question": "If ‘FISH’ is written as ‘EHRG’ in a certain code, then how would ‘JUNGLE’ be written in that same code?",
+    "options": [
+      {
+        "number": 1,
+        "option": "ITMFKD"
+      },
+      {
+        "number": 2,
+        "option": "ITNFKD"
+      },
+      {
+        "number": 3,
+        "option": "KVOHMF"
+      },
+      {
+        "number": 4,
+        "option": "TIMFKD"
+      },
+      {
+        "number": 5,
+        "option": "None of these"
+      }
+    ]
+  },
+  {
+    "number": 29,
+    "question": "If in a certain code language, ‘MIRACLE’ is coded as ‘NKUEHRL’, then how is ‘GAMBLE’ coded in that same code language?",
+    "options": [
+      {
+        "number": 1,
+        "option": "JDOCMF"
+      },
+      {
+        "number": 2,
+        "option": "CLEMNK"
+      },
+      {
+        "number": 3,
+        "option": "HCPFQK"
+      },
+      {
+        "number": 4,
+        "option": "AELGMN"
+      },
+      {
+        "number": 5,
+        "option": "None of these"
+      }
+    ]
+  },
+  {
+    "number": 30,
+    "question": "If the word ‘ANU’ be written as ‘MSN’ and ‘VINAY’ be written as ‘PLSMZ’ in a code language, how can we express the word ‘ANUVI’ in the same language?",
+    "options": [
+      {
+        "number": 1,
+        "option": "MSNPL"
+      },
+      {
+        "number": 2,
+        "option": "MPNSL"
+      },
+      {
+        "number": 3,
+        "option": "MSMPL"
+      },
+      {
+        "number": 4,
+        "option": "MQMPL"
+      },
+      {
+        "number": 5,
+        "option": "None of these"
+      }
+    ]
+  },
+  {
+    "number": 31,
+    "question": "If ‘LINGER’ is ‘123456’ and ‘FORCE’ is ‘56789’, then ‘FIERCE’ will be -------------.",
+    "options": [
+      {
+        "number": 1,
+        "option": "345667"
+      },
+      {
+        "number": 2,
+        "option": "456678"
+      },
+      {
+        "number": 3,
+        "option": "345677"
+      },
+      {
+        "number": 4,
+        "option": "556789"
+      },
+      {
+        "number": 5,
+        "option": "Cannot be determined"
+      }
+    ]
+  },
+  {
+    "number": 32,
+    "question": "In a certain code, ‘INSTITUTION’ is written as ‘NOITUTITSNI’. How would ‘PERFECTIONS’ be written in that code?",
+    "options": [
+      {
+        "number": 1,
+        "option": "SNOICTEREP"
+      },
+      {
+        "number": 2,
+        "option": "SNOITCEFERP"
+      },
+      {
+        "number": 3,
+        "option": "SNOITCEFRPE"
+      },
+      {
+        "number": 4,
+        "option": "SNOITCEFREP"
+      },
+      {
+        "number": 5,
+        "option": "SNOITCEFPER"
+      }
+    ]
+  },
+  {
+    "number": 33,
+    "question": "If in a certain code language PARROT = 123345 and SOAT = 6425, then how would ROAST be written in that same code language?",
+    "options": [
+      {
+        "number": 1,
+        "option": "32456"
+      },
+      {
+        "number": 2,
+        "option": "32564"
+      },
+      {
+        "number": 3,
+        "option": "34625"
+      },
+      {
+        "number": 4,
+        "option": "34265"
+      }
+    ]
+  },
+  {
+    "number": 34,
+    "question": "In a certain code ‘253’ means books are old; ‘546’ means man is old and ‘378’ means buy good books what stand for ‘are’ in that code?",
+    "options": [
+      {
+        "number": 1,
+        "option": "2"
+      },
+      {
+        "number": 2,
+        "option": "4"
+      },
+      {
+        "number": 3,
+        "option": "4"
+      },
+      {
+        "number": 4,
+        "option": "5"
+      },
+      {
+        "number": 5,
+        "option": "6"
+      }
+    ]
+  },
+  {
+    "number": 35,
+    "question": "In a certain code, '256' means 'you are good' ; '637' means 'we are bad' and '358' means 'good and bad'. Which of the following represents 'and' in that code?",
+    "options": [
+      {
+        "number": 1,
+        "option": "2"
+      },
+      {
+        "number": 2,
+        "option": "5"
+      },
+      {
+        "number": 3,
+        "option": "8"
+      },
+      {
+        "number": 4,
+        "option": "3"
+      }
+    ]
+  },
+  {
+    "number": 36,
+    "question": "If in a certain code, ‘DAUGHTER’ is written as ‘TERDAUGH’, how will ‘APTITUDE’ be written in that code?",
+    "options": [
+      {
+        "number": 1,
+        "option": "DEUAPTIT"
+      },
+      {
+        "number": 2,
+        "option": "UDEAPTIT"
+      },
+      {
+        "number": 3,
+        "option": "DUEAPTIT"
+      },
+      {
+        "number": 4,
+        "option": "DAUEPTIT"
+      }
+    ]
+  },
+  {
+    "number": 37,
+    "question": "If ‘CARPET’ is coded to ‘TCEAPR’, then ‘NATIONAL’ is coded with",
+    "options": [
+      {
+        "number": 1,
+        "option": "NLATNOIA"
+      },
+      {
+        "number": 2,
+        "option": "LANOITAN"
+      },
+      {
+        "number": 3,
+        "option": "LNAANTOI"
+      },
+      {
+        "number": 4,
+        "option": "LNOINTAA"
+      }
+    ]
+  },
+  {
+    "number": 38,
+    "question": "If ‘ZEBRA’ is written as ‘2652181’, then how can ‘COBRA’ be written?",
+    "options": [
+      {
+        "number": 1,
+        "option": "302181"
+      },
+      {
+        "number": 2,
+        "option": "3152181"
+      },
+      {
+        "number": 3,
+        "option": "31822151"
+      },
+      {
+        "number": 4,
+        "option": "1182153"
+      }
+    ]
+  },
+  {
+    "number": 39,
+    "question": "In a certain code.\n‘il  be pee’ means ‘ roses are blue’\nsik hee means ‘red flowers’ and\n‘ pee mit hee’ means flowers are vegetables\nQuestions:\n1) How is ‘red’ written in that code?\na) hee        b) sik        c) be        d) cannot be determined\n2) How is ‘roser’ written in that code?\na) il        b) pee        c) be        d) cannot be determined\n3) How is ‘vegetables’ and ned flowers written in this code?\na) pee sik mi thee    b) sik pee hee be    c) il sik mi thee\nd) Cannot be determined",
+    "options": [
+      {
+        "number": 1,
+        "option": "b, d, a"
+      },
+      {
+        "number": 2,
+        "option": "c, d, a"
+      },
+      {
+        "number": 3,
+        "option": "a, b, c"
+      },
+      {
+        "number": 4,
+        "option": "d, c, b"
+      }
+    ]
+  },
+  {
+    "number": 40,
+    "question": "If the word ‘TABLECLOTH’ is coded as ‘XEMRANRIXT’, how can ‘HOTEL’ be coded?",
+    "options": [
+      {
+        "number": 1,
+        "option": "RIXAT"
+      },
+      {
+        "number": 2,
+        "option": "TIXAR"
+      },
+      {
+        "number": 3,
+        "option": "TAXIR"
+      },
+      {
+        "number": 4,
+        "option": "RAXIT"
+      }
+    ]
+  },
+  {
+    "number": 41,
+    "question": "If table is called chair,chair is called bed, bed is called mirror, mirror is called cupboard & cupboard is called drawer.Where will one sleep?",
+    "options": [
+      {
+        "number": 1,
+        "option": "Bed"
+      },
+      {
+        "number": 2,
+        "option": "cupboard"
+      },
+      {
+        "number": 3,
+        "option": "mirror"
+      },
+      {
+        "number": 4,
+        "option": "chair"
+      }
+    ]
+  },
+  {
+    "number": 42,
+    "question": "If A=2, M=26 and Z=52, then BET?",
+    "options": [
+      {
+        "number": 1,
+        "option": "44"
+      },
+      {
+        "number": 2,
+        "option": "54"
+      },
+      {
+        "number": 3,
+        "option": "64"
+      },
+      {
+        "number": 4,
+        "option": "72"
+      }
+    ]
+  },
+  {
+    "number": 43,
+    "question": "If NASCENT is written as 2734526, how is SENTENCE is written with that code?",
+    "options": [
+      {
+        "number": 1,
+        "option": "35265235"
+      },
+      {
+        "number": 2,
+        "option": "35256245"
+      },
+      {
+        "number": 3,
+        "option": "35265245"
+      },
+      {
+        "number": 4,
+        "option": "35256275"
+      }
+    ]
+  },
+  {
+    "number": 44,
+    "question": "If HE=41 and SHE=49, what is equal to THEM?",
+    "options": [
+      {
+        "number": 1,
+        "option": "62"
+      },
+      {
+        "number": 2,
+        "option": "60"
+      },
+      {
+        "number": 3,
+        "option": "26"
+      },
+      {
+        "number": 4,
+        "option": "106"
+      }
+    ]
+  },
+  {
+    "number": 45,
+    "question": "If NORMAL is coded as LAMRON. Then how would you encode AVERAGE?",
+    "options": [
+      {
+        "number": 1,
+        "option": "AEGARVE"
+      },
+      {
+        "number": 2,
+        "option": "EGAREAV"
+      },
+      {
+        "number": 3,
+        "option": "EGARVEA"
+      },
+      {
+        "number": 4,
+        "option": "EGAREVA"
+      }
+    ]
+  },
+  {
+    "number": 46,
+    "question": "If ANANYA is coded as 010110, then how NIHARICA be coded?",
+    "options": [
+      {
+        "number": 1,
+        "option": "10101001"
+      },
+      {
+        "number": 2,
+        "option": "10010101"
+      },
+      {
+        "number": 3,
+        "option": "10101010"
+      },
+      {
+        "number": 4,
+        "option": "10101011"
+      }
+    ]
+  },
+  {
+    "number": 47,
+    "question": "In a certain code KITE is written as %2$#  & STUD   is written as @$57. How is DESK written in that code?",
+    "options": [
+      {
+        "number": 1,
+        "option": "8%@#"
+      },
+      {
+        "number": 2,
+        "option": "@8%#"
+      },
+      {
+        "number": 3,
+        "option": "#7%@"
+      },
+      {
+        "number": 4,
+        "option": "7#@%"
+      }
+    ]
+  },
+  {
+    "number": 48,
+    "question": "ACE is coded as 468, and BUN is coded as 52614, the YOU will be coded as -------------.",
+    "options": [
+      {
+        "number": 1,
+        "option": "291926"
+      },
+      {
+        "number": 2,
+        "option": "31826"
+      },
+      {
+        "number": 3,
+        "option": "31926"
+      },
+      {
+        "number": 4,
+        "option": "3191"
+      }
+    ]
+  },
+  {
+    "number": 49,
+    "question": "If tee see pee means drink fruit juice, see kee lee means juice is sweet and lee ree mee means. He is intelligent, which word in that language means sweet?",
+    "options": [
+      {
+        "number": 1,
+        "option": "see"
+      },
+      {
+        "number": 2,
+        "option": "kee"
+      },
+      {
+        "number": 3,
+        "option": "lee"
+      },
+      {
+        "number": 4,
+        "option": "pee"
+      }
+    ]
+  },
+  {
+    "number": 50,
+    "question": "If F= 6, MAT= 34, then BALL?",
+    "options": [
+      {
+        "number": 1,
+        "option": "24"
+      },
+      {
+        "number": 2,
+        "option": "27"
+      },
+      {
+        "number": 3,
+        "option": "28"
+      },
+      {
+        "number": 4,
+        "option": "25"
+      }
+    ]
+  },
+  {
+    "number": 51,
+    "question": "If SYSTEM is written is in a certain code as 123456, how will STEM be written in the same code?",
+    "options": [
+      {
+        "number": 1,
+        "option": "3456"
+      },
+      {
+        "number": 2,
+        "option": "1234"
+      },
+      {
+        "number": 3,
+        "option": "2451"
+      },
+      {
+        "number": 4,
+        "option": "4561"
+      }
+    ]
+  },
+  {
+    "number": 52,
+    "question": "In a certain code TOLD is written as 5132,and EAT is written as 645,How is LATE written in that code?",
+    "options": [
+      {
+        "number": 1,
+        "option": "3652"
+      },
+      {
+        "number": 2,
+        "option": "3246"
+      },
+      {
+        "number": 3,
+        "option": "3456"
+      },
+      {
+        "number": 4,
+        "option": "none of these"
+      }
+    ]
+  },
+  {
+    "number": 53,
+    "question": "In the following question, two statements numbered I and II are given. There may be cause and effect relationship between the two statements. These two statements may be the effect of the same cause or independent causes. These statements may be independent causes without having any relationship. Read both the statements in each question and mark your answer as\n(A) If statement I is the cause and statement II is its effect;\n(B) If statement II is the cause and statement I is its effect;\n(C) If both the statements I and II are independent causes;\n(D) If both the statements I and II are effects of independent causes;\n(E) If both the statements I and II are effects of some common cause.\nStatements:\nI) India's 2012/13 edible oil imports could rise 4.2 per cent to a record high, with palm oil cornering the bulk of that imports.\nII) Higher Indian imports could provide crucial support to palm oil prices, which are flagging compared with rivals like soy oil, weighed down by a build-up in inventory in the top two producing countries - Indonesia and Malaysia.",
+    "options": [
+      {
+        "number": 1,
+        "option": "A"
+      },
+      {
+        "number": 2,
+        "option": "B"
+      },
+      {
+        "number": 3,
+        "option": "C"
+      },
+      {
+        "number": 4,
+        "option": "D"
+      },
+      {
+        "number": 5,
+        "option": "E"
+      }
+    ]
+  },
+  {
+    "number": 54,
+    "question": "Below there are two statements I and II. These statements may be either independent causes or may be effects of independent causes or a common cause. One of these statements may be the effect of the other statements. Read both the statements and decide which of the following answer choice correctly depicts the relationship between these two statements. Mark answer as\n(A) If statement I is the cause and statement II is its effect.\n(B) If statement II is the cause and statement I is its effect.\n(C) If both the statements I and II are independent causes.\n(D) If both the statements I and II are effects of independent causes.\n(E) If both the statements I and II are effects of some common cause.\nStatements:\nI. Many people visited the religious place during the week-end.\nII. Few people visited the religious place during the week days.",
+    "options": [
+      {
+        "number": 1,
+        "option": "A"
+      },
+      {
+        "number": 2,
+        "option": "B"
+      },
+      {
+        "number": 3,
+        "option": "C"
+      },
+      {
+        "number": 4,
+        "option": "D"
+      },
+      {
+        "number": 5,
+        "option": "E"
+      }
+    ]
+  },
+  {
+    "number": 55,
+    "question": "In the following question, two statements numbered I and II are given. There may be cause and effect relationship between the two statements. These two statements may be the effect of the same cause or independent causes. These statements may be independent causes without having any relationship. Read both the statements in each question and mark your answer as\n(A) If statement I is the cause and statement II is its effect;\n(B) If statement II is the cause and statement I is its effect;\n(C) If both the statements I and II are independent causes;\n(D) If both the statements I and II are effects of independent causes;\n(E) If both the statements I and II are effects of some common cause.\nStatements:\nI) Prime Minister said a Rs.17 per litre hike in diesel price was needed to cover the losses and that the government only partially passed on the burden to the common people.\nII) The prime minister pointed out that much of diesel is used by big cars and sports utility vehicles (SUVs) owned by the rich and by factories and businesses.",
+    "options": [
+      {
+        "number": 1,
+        "option": "A"
+      },
+      {
+        "number": 2,
+        "option": "B"
+      },
+      {
+        "number": 3,
+        "option": "C"
+      },
+      {
+        "number": 4,
+        "option": "D"
+      },
+      {
+        "number": 5,
+        "option": "E"
+      }
+    ]
+  },
+  {
+    "number": 56,
+    "question": "Below there are two statements I and II. These statements may be either independent causes or may be effects of independent causes or a common cause. One of these statements may be the effect of the other statements. Read both the statements and decide which of the following answer choice correctly depicts the relationship between these two statements. Mark answer as\n(A) If statement I is the cause and statement II is its effect.\n(B) If statement II is the cause and statement I is its effect.\n(C) If both the statements I and II are independent causes.\n(D) If both the statements I and II are effects of independent causes.\n(E) If both the statements I and II are effects of some common cause.\nStatements:\nI. Police had resorted to lathi-charge to disperse the unruly mob from the civic headquarters.\nII. The civic administration has recently hiked the property tax of the residential buildings by about 30 percent.",
+    "options": [
+      {
+        "number": 1,
+        "option": "A"
+      },
+      {
+        "number": 2,
+        "option": "B"
+      },
+      {
+        "number": 3,
+        "option": "C"
+      },
+      {
+        "number": 4,
+        "option": "D"
+      },
+      {
+        "number": 5,
+        "option": "E"
+      }
+    ]
+  },
+  {
+    "number": 57,
+    "question": "Below there are two statements I and II. These statements may be either independent causes or may be effects of independent causes or a common cause. One of these statements may be the effect of the other statements. Read both the statements and decide which of the following answer choice correctly depicts the relationship between these two statements. Mark answer as\n(A) If statement I is the cause and statement II is its effect.\n(B) If statement II is the cause and statement I is its effect.\n(C) If both the statements I and II are independent causes.\n(D) If both the statements I and II are effects of independent causes.\n(E) If both the statements I and II are effects of some common cause.\nStatements:\nI. Large number of people living in the low lying areas has been evacuated during the last few days to safer places.\nII. The Government has rushed in relief supplies to the people living in the affected areas.",
+    "options": [
+      {
+        "number": 1,
+        "option": "A"
+      },
+      {
+        "number": 2,
+        "option": "B"
+      },
+      {
+        "number": 3,
+        "option": "C"
+      },
+      {
+        "number": 4,
+        "option": "D"
+      },
+      {
+        "number": 5,
+        "option": "E"
+      }
+    ]
+  },
+  {
+    "number": 58,
+    "question": "Below there are two statements I and II. These statements may be either independent causes or may be effects of independent causes or a common cause. One of these statements may be the effect of the other statements. Read both the statements and decide which of the following answer choice correctly depicts the relationship between these two statements. Mark answer as\n(A) If statement I is the cause and statement II is its effect.\n(B) If statement II is the cause and statement I is its effect.\n(C) If both the statements I and II are independent causes.\n(D) If both the statements I and II are effects of independent causes.\n(E) If both the statements I and II are effects of some common cause.\nStatements:\nI. The Reserve Bank of India has recently put restrictions on few small banks in the country.\nII. The small banks in the private and co-operative sector in India are not in a position to withstand the competitions of the bigger banks in the public sector.",
+    "options": [
+      {
+        "number": 1,
+        "option": "A"
+      },
+      {
+        "number": 2,
+        "option": "B"
+      },
+      {
+        "number": 3,
+        "option": "C"
+      },
+      {
+        "number": 4,
+        "option": "D"
+      },
+      {
+        "number": 5,
+        "option": "E"
+      }
+    ]
+  },
+  {
+    "number": 59,
+    "question": "Read the following information and answer the questions that follow:\n1) A is older than B.\n2) E & F are of equal age.\n3) C is the youngest.\n4) D is younger than F.\n5) D is older than A.\nQ-1) Which two of the above statements indicate that D is older than B?\nA) 1 & 4         B) 4 & 5      C) 1 & 5      D) None of these.\nQ-2) Which statement indicate that F is older than C?\nA) 2 & 3          B) 3 only         C) 3 & 4       D) None of these.\nQ-3) Which statements is/are not required to prove that B is younger than E?\nA) 3 only      B) 3 & 4 only       C) 4 & 5        D) 3 & 5\nQ-4) Which of the statements proves that A is younger than E?\nA) 1, 2 & 4      B) 2, 4, & 5      C) 1, 4, & 5       D) None of these.",
+    "options": [
+      {
+        "number": 1,
+        "option": "C, A, B, C"
+      },
+      {
+        "number": 2,
+        "option": "C, B, A, B"
+      },
+      {
+        "number": 3,
+        "option": "C, D, B, C"
+      },
+      {
+        "number": 4,
+        "option": "C, A, D, B"
+      }
+    ]
+  },
+  {
+    "number": 60,
+    "question": "Read the following information and answer the questions that follow:\n1) There is a group of six persons living in a four storeyed building.The persons are K, L, M, N, O & P. Each storey of the building has two flats: thus there are eight flats in all, two of them being empty.\n2) The tallest of the group lives on the top floor while the shortest lives on the ground floor.\n3) M is taller than L,who in turn is taller than P.\n4) O is shorter than N.\n5) One of the flat on first floor is vacant and one of the flat on second floor is vacant.\n6) K is neither the tallest nor the shortest.\n7) There are only two people taller than M, K is not one of them.\n8) L shares the floor with the tallest among the group,while M shares it with the shortest.\nQ-1) Who among the following is the tallest among the group?\nA) N         B) M         C) K        D) Cannot be determined.\nQ-2) Who does M share the floor with?\nA) O        B) P        C) K        D) Cannot be determined.\nQ-3) On which does K live?\nA) Ground floor\nB) First floor\nC) Top floor\nD) Cannot be determined.\nQ-4) O & K live:\nA) On the same floor\nB) On two continuous floors.\nC) With one floor between their floors.\nD) Cannot be determined.\nQ-5) Starting from the tallest of the group, what is the rank of K in order of height?\nA) Fourth\nB) Fifth\nC) Sixth\nD) Cannot be determined.",
+    "options": [
+      {
+        "number": 1,
+        "option": "A, B, D, B, D"
+      },
+      {
+        "number": 2,
+        "option": "A, B, C, D, D"
+      },
+      {
+        "number": 3,
+        "option": "A, D, C, B, D"
+      },
+      {
+        "number": 4,
+        "option": "A, C, B, C, A"
+      }
+    ]
+  }
+]
